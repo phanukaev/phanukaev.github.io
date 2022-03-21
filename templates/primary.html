@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./css/main_theme.css">
+    <link rel="icon" type="image/png" href="./images/favicon.ico">
+    <title>${ title }</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        ${for(nav)}<li><a href="${it.url}">${it.title}</a></li>${sep}${endfor}
+      </ul>
+    </nav>
+    ${ body }
+  </body>
+</html>

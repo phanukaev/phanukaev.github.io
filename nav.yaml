@@ -1,0 +1,7 @@
+sep: "\n"
+nav:
+  - title:  About Me
+    url:    index.html
+  - title:  CV
+    url:    vita.html
+
