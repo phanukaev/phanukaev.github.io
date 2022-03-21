@@ -9,6 +9,8 @@ title:  Peter Hanukaev
      title="Picture of me" />
 </p>
 
+## Peter Hanukaev ##
+
 ### About Me ###
 Welcome!
 I'm a PhD student in computer science at
@@ -17,11 +19,7 @@ working on the
 [Granule Project](https://granule-project.github.io).
 My advisor is
 [Harley Eades](https://metatheorem.org).
-I am interested in category theory,
-constructive mathematics,
-non-classical logic and
-dependent type theory.
-<!--Currently, I am working on inductive types in [Gerty](https://github.com/granule-project/gerty).-->
+My main interests are in category theory and type theory.
 
 
 *   *   *
