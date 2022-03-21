@@ -6,7 +6,7 @@ title:  Peter Hanukaev
 <p>
 <img src="images/peter_hanukaev_2021-11.jpg"
      style="float:right; width:22%; margin:0 0 0 1.5em;"
-     alt="Picture of me" />
+     title="Picture of me" />
 </p>
 
 ### About Me ###
