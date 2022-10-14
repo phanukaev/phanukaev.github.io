@@ -19,10 +19,13 @@ working on the
 [Granule Project](https://granule-project.github.io).
 My advisor is
 [Harley Eades](https://metatheorem.org).
-My main interests are in category theory and type theory.
+I am interested in category theory and type theory,
+specifically in linear, graded and dependent type theories
+as well as categorical semantics.
 
 
 *   *   *
+
 
 ### Contact ###
 

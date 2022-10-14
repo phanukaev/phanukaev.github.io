@@ -7,5 +7,4 @@ for file in src/*.md; do
       --metadata-file nav.yaml\
       -o $OUTFILE;
     mv $OUTFILE .;
-done
-
+done && echo "SUCCESS!"
