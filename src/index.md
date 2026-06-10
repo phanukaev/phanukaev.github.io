@@ -10,7 +10,6 @@ title:  Peter Hanukaev
 
 ## About Me
 
-Welcome!
 I'm a PhD student in computer science at
 [Augusta University](https://augusta.edu)
 working on the
