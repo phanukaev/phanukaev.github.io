@@ -1,6 +1,6 @@
 sep: "\n"
 nav:
-  - title:  About Me
+  - title:  Home
     url:    index.html
   - title:  CV
     url:    vita.html

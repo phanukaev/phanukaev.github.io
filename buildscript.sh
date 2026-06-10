@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 for file in src/*.md; do
     OUTFILE=${file/%md/html}
