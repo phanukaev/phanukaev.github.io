@@ -18,7 +18,7 @@ My advisor is
 [Harley Eades](https://hde.design).
 I am interested in category theory and type theory,
 specifically in linear, graded and dependent type theories
-as well as categorical their semantics.
+as well as their categorical semantics.
 
 
 *   *   *
